@@ -1,3 +1,7 @@
 1. Create an Array of Books.
 
 page-88, program-4
+
+page-92, program-7
+page-93, program-8
+page-94, program-10
